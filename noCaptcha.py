@@ -47,7 +47,8 @@ def checkRecaptcha(driver):
         pass
 
 
-main()
+if __name__ == '__main__':
+    main()
 
 
 
